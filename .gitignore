@@ -22,3 +22,11 @@ build/
 # Логи
 *.log
 npm-debug.log*
+
+# Локальные настройки
+*.local
+.cache/
+
+# Временные файлы
+*.tmp
+*.swp
