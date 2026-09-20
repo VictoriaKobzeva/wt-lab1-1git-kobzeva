@@ -29,3 +29,6 @@ wt-lab1-1git-kobzeva/
 ├── README.md
 └── .gitignore
 ```
+
+
+Проверка создания конфликта
