@@ -29,3 +29,6 @@ wt-lab1-1git-kobzeva/
 ├── README.md
 └── .gitignore
 ```
+## Работа в VS Code
+
+Изменения выполнены в Visual Studio Code.
