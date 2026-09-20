@@ -31,4 +31,4 @@ wt-lab1-1git-kobzeva/
 ```
 ## Работа в VS Code
 
-Изменения выполнены в main
+Изменения выполнены в feature/vscode-edit.
